@@ -1,0 +1,23 @@
+mat-card {
+  margin-bottom: 20px;
+  padding: 20px;
+
+  .review-author,
+  .reply-author {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .review-text,
+  .reply-text {
+    margin-bottom: 10px;
+    line-height: 1.5;
+  }
+
+  .reply-section {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #eee; /* Simple separator */
+  }
+}
+

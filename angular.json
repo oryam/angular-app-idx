@@ -34,8 +34,9 @@
 							}
 						],
 						"styles": [
-							"src/styles.scss"
-						]
+              "@angular/material/prebuilt-themes/azure-blue.css",
+              "src/styles.scss"
+            ]
 					},
 					"configurations": {
 						"production": {
@@ -91,8 +92,9 @@
 							}
 						],
 						"styles": [
-							"src/styles.scss"
-						]
+              "@angular/material/prebuilt-themes/azure-blue.css",
+              "src/styles.scss"
+            ]
 					}
 				}
 			}
